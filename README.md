@@ -13,3 +13,6 @@ A machine learning microservice that predicts individual income brackets (>50K o
 - Achieved **80.28% predictive accuracy** on test datasets.
 - Provides a scalable endpoint for real-time income classification.
 
+## 🏷 Topics
+machine-learning, python, data-analytics, flask
+
