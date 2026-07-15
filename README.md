@@ -8,6 +8,9 @@ A machine learning microservice that predicts individual income brackets (>50K o
 - **Libraries:** Scikit-Learn, Pandas, NumPy
 - **Deployment:** Flask/API Microservice
 
+### Live Demo
+[View Live Project](https://amma-project3-ecommerce-8d42c06d.netlify.app/)
+
 ## 📈 Key Findings & Performance
 - The model analyzes 14 features including education, occupation, and demographic factors.
 - Achieved **80.28% predictive accuracy** on test datasets.
